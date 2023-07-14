@@ -1,0 +1,170 @@
+.frame6.frame6 {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+}
+.live {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.demo {
+  color: #abb2bf;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #abb2bf;
+}
+.rectangle22 {
+  width: 330.5787px;
+  height: 201px;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle22.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 1px 0px #abb2bf;
+}
+.frame39 {
+  height: min-content;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px;
+}
+.hTML {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.java {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.python {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.kotlin {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame40 {
+  height: min-content;
+  align-self: stretch;
+  gap: 8px;
+  padding: 8px;
+}
+.hTML2 {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 39px;
+  height: 21px;
+  flex-direction: column;
+}
+.sCSS {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 39px;
+  height: 21px;
+  flex-direction: column;
+}
+.python2 {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 58px;
+  height: 21px;
+  flex-direction: column;
+}
+.flask {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 48px;
+  height: 21px;
+  flex-direction: column;
+}
+.frame3 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 16px;
+  box-shadow: inset 0px 1px 0px #abb2bf;
+}
+.azure {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.minecraftNetwork {
+  color: #abb2bf;
+  font-size: 16px;
+  font-family: Fira Code, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame5 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 16px;
+}
