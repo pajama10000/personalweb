@@ -469,7 +469,7 @@
 }
 .about-rectangle251 {
   top: 0px;
-  left: 1375px;
+  right: -66px;
   width: 155px;
   height: 155px;
   position: absolute;
@@ -716,7 +716,7 @@
 .about-jcgellidon-e3-um--scugounsplashremovebgpreview11 {
   top: 0px;
   left: 4px;
-  width: 339px;
+  width: 333px;
   height: 507px;
   position: absolute;
 }
@@ -2201,4 +2201,10 @@
   width: 32px;
   height: 311px;
   position: absolute;
+}
+@media(max-width: 1600px) {
+  .about-about {
+    animation: inherit;
+    align-items: center;
+  }
 }
